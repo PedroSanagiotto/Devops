@@ -19,6 +19,8 @@ services:
     environment:
       - ORACLE_PASSWORD=SuperPassword@22
 
+      # service name: XEPDB1
+
       
 
 volumes:
